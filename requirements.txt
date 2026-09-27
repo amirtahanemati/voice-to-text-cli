@@ -1,0 +1,13 @@
+# Core (required)
+faster-whisper>=1.0.0
+rich>=13.7.0
+questionary>=2.0.1
+
+# Optional: microphone recording (app still runs fine without these,
+# the "Record from microphone" menu item will just warn it's unavailable)
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24
+
+# Optional: "copy transcript to clipboard" feature
+pyperclip>=1.8.2

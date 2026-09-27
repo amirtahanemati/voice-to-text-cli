@@ -1,0 +1,6 @@
+.env
+kanoon_medical_complete_database.csv
+/.vscode
+__pycache__/
+*.db
+*.sqlite3
